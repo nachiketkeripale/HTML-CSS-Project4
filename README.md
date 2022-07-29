@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 4
 
 ![iNeuron](https://img.shields.io/badge/iNeuron-Full--Stack--Bootcamp-green)
 
@@ -6,23 +6,23 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-![Live class,Project1](https://img.shields.io/badge/LIVE--CLASS-PROJECT--3-darkgrey)
+![Live class,Project1](https://img.shields.io/badge/LIVE--CLASS-PROJECT--4-darkgrey)
 
 ![Nachiket,FullStackDeveloper](https://img.shields.io/badge/Nachiket%20Keripale-Full--Stack--Developer-brightgreen)
 
-## Project 3 [Live Link](https://nachiketkeripaleproject3.netlify.app/)
+## Project 4 [Live Link](https://nachiketkeripaleproject4.netlify.app/)
 
--   Created this project from scratch. 
--   Got cleared about the importance for the class and how we can traget the element 
--   Learn to use background property transparent for button. 
+-  Used flexbox for this project . 
+-  Used :hover selector on list item. 
+-  Used Justify-content propertys in this project
 
 ---
 
 ## Time taken to finish this project
 
--   3 hour to complete it.
+-   2 hour to complete it.
 
 #### Screenshot
 
-![Project1](./screenshotproject3.png) 
+![Project1](./screenshotproject4.png) 
 
